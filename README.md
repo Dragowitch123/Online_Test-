@@ -1,2 +1,2 @@
 # Online_Test-
-A fun and easy program to have a mock test.
+A program for a online MCQ test.
